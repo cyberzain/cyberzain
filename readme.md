@@ -55,7 +55,7 @@
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="__im_zain" />
  </a> 
 
- <a href="https://facebook.com/ShaikhZainulAbeddin" target="_blank">
+ <a href="https://facebook.com/https://www.facebook.com/shaikh.zainulabeddin.5" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="Shaikh Zainul Abeddin" />
  </a> 
 </p>
