@@ -61,22 +61,15 @@
 </p>
 <br />
 
-<!-- About Section -->
- # About me
- 
-<p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: alsiam.dev@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/alsiam/alsiam/issues)
+## 👨‍💻 About Me
 
-</p>
+<img align="right" width="300" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
 
-<br/>
-<br/>
-<br/>
+✌️ Passionate about **programming & problem solving**  
+❤️ Love building **real-world MERN projects**  
+🎓 MCA Student at **University of Mysore**  
+📍 From **Maharashtra, India**  
+📧 Email: **zainulshaikh013@gmail.com**
 
 ## Use To Code
 
