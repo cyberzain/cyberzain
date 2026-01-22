@@ -63,8 +63,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
-
+<img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
 ✌️ Passionate about **programming & problem solving**  
 ❤️ Love building **real-world MERN projects**  
 🎓 MCA Student at **University of Mysore**  
